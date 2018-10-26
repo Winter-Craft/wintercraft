@@ -4,7 +4,7 @@ Current stage: Planning, very very early testing
 IP: To be released  
 Minecraft version: 1.11 (for now)  
 To-do list: [Found here](https://github.com/Winter-Craft/wintercraft/issues/1)  
-Discord: [Click here to join!](https://discord.gg/XqkEmxr)
+Discord: [Click here to join!](https://discord.gg/XqkEmxr)  
 Current top secret dark council people: 
 - Elite: Driving force behind the meme, snow-lover, puppeteer and mastermind extraordinaire
 - Woothie: Server box grease monkey, jerks off to making polls, GitHub fanboy and janitor
