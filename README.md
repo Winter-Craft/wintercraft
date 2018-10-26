@@ -19,9 +19,10 @@ https://www.strawpoll.me/16713248/r
   
 ## The world so far
 The world is covered in snow. It is essentially a huge snow biome, except under all that snow is a normal, if somewhat mountainous world. The idea is to have the snow and cold be so hardcore it will hurt you over time without shelter or protection. 
-Currently that is: 
-- Most of the world: after 5-10 minutes, 10-20% chance of taking half a heart every 10 seconds, also apply slow? 
-- During snowstorms/blizzards/snowfall: after ?? minutes, ?? (higher) chance of taking more? damage every ? seconds, apply slow (more?), blind?  
+Currently that is:  
+- Most of the world: after 5-10 minutes, 10-20% chance of taking half a heart every 10 seconds, also apply slow?  
+- During snowstorms/blizzards/snowfall: after ?? minutes, ?? (higher) chance of taking more? damage every ? seconds, apply slow (more?), blind?
+
 Players will have a way to revert this process and turn the land back into its original state. The exact method has not been decided yet, but we're thinking either an item of significant power (heirlooms), a ritual, powerful and/or risky magic, scripted events or builds/special blocks. Feedback is as always highly appreciated.
   
 ## Shit's broken please help  
