@@ -2,8 +2,8 @@
 ## Infodump
 Current stage: Planning, very very early testing  
 IP: To be released  
-Release date: Mid-november? 1st of December? We haven't decided yet, maybe earlier.
-Minecraft version: 1.11 (for now)  
+Release date: Mid-november? 1st of December? We haven't decided yet, maybe earlier.  
+Minecraft version: 1.12.2
 To-do list: [Found here](https://github.com/Winter-Craft/wintercraft/issues/1)  
 Discord: [Click here to join!](https://discord.gg/XqkEmxr)  
 Current top secret dark council people: 
