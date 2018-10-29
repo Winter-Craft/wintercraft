@@ -28,5 +28,5 @@ Players will have a way to revert this process and turn the land back into its o
   
 ## Shit's broken please help  
 If you have any bugs to report about the server, [make an issue post with this template](https://github.com/Winter-Craft/wintercraft/issues/new?template=bug_report.md) or contact one of the staff.  
-If you have a suggestion to make (new, remove or edit a plugin, change configs, etc), [we got a template for that](https://github.com/Winter-Craft/wintercraft/issues/new?template=feature_request.md).   
+If you have a suggestion to make (new, remove or edit a plugin, change configs, anything really), [we got a template for that](https://github.com/Winter-Craft/wintercraft/issues/new?template=feature_request.md).   
 You can find the current plugins list in the [Wiki tab](https://github.com/Winter-Craft/wintercraft/wiki).  
